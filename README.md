@@ -28,8 +28,8 @@ python auto_summary.py
 # Usage
 After setting up, simply run the script. It will analyze the commits in the specified git repository and generate summaries for each one.
 
-#Contributing
+# Contributing
 Contributions to Auto Summary are welcome! If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcomed.
 
-#License
+# License
 This project is under the [MIT license]().
